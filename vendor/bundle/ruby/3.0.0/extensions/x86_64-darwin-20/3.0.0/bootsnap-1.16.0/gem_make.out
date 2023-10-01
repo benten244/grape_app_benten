@@ -1,0 +1,15 @@
+current directory: /Users/benten244/Desktop/grape_app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/benten244/.rbenv/versions/3.0.0/bin/ruby -I /Users/benten244/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20230929-35794-q1b4m1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/benten244/Desktop/grape_app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/benten244/Desktop/grape_app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/benten244/Desktop/grape_app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230929-35794-u4ukpp/bootsnap
